@@ -1,0 +1,7 @@
+{
+  "name": "Aura Height Estimator",
+  "description": "A high-level height measurement application that uses your device's camera to estimate height with a smooth, modern interface. Align the guides and get an instant estimation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
